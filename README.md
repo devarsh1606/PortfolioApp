@@ -5,8 +5,6 @@ This program will create a Dashboard type PDF report of your stock Portfolio.
 
 **Input** : A formated excel file containing - PUR_DATE(Purchased Date), COMP_NAME(Company Name), COMP_SYMBOL(Company's Ticker Symbol), Per_Share(Cost of 1 share), QTY(Quantities of Stocks), TOTAL_INVESTMENT(In One Company)  
 
-**Run the Program**
-
 **Output** : PDF Report
 ## In PDF report
 1. It will include a Graphical representation of your **Portfolio's Performance Against Benchmark(Sensex) and Invested Money** .
