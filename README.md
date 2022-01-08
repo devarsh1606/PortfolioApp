@@ -7,9 +7,10 @@ This program creates a Dashboard type PDF report of your stock Portfolio.
 
 **Output** : PDF Report
 ## In PDF report
-1. It includes a Graphical representation of your **Portfolio's Performance Against Benchmark(Sensex) and Invested Money** .
-2. It includes A Pie Chart representating your Stocks' Contribution in your Portfolio.
-3. Above the Graph shows information on "Portfolio Value", "Total Invested", "Unrealized Gain", "Outperformed Sensex, By" and "Today's Gain"
+1. On first page, shows a Graphical representation of your **Portfolio's Performance Against Benchmark(Sensex) and Invested Money** .
+2. Above the Graph shows information on "Portfolio Value", "Total Invested", "Unrealized Gain", "Outperformed Sensex, By" and "Today's Gain"
+3. On second page, shows A Pie Chart representating your Stocks' Contribution in your Portfolio.
+
 
 ## Screenshot of Excel file as an input 
 
