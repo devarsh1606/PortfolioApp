@@ -23,4 +23,4 @@ This program creates a Dashboard type PDF report of your stock Portfolio.
 
 ## This project is made:
 1. To see Power of Long Term Investing and Power of Compounding.
-2. To see your Portfolio's Performance on particular period. As we don't remember exactly how much our portfolio's value on that period and also to see how fast it is growing against the index value.
+2. To see your Portfolio's Performance on particular period. As we don't remember exactly how much our portfolio's value on that period and also to see how fast it is growing against the index fund value i.e if you have invested this money as a sip in Sensex. 
